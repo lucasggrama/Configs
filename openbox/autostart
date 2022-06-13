@@ -1,0 +1,5 @@
+xrdb /home/lucas/.Xresourses &
+wal -i /home/lucas/nord-wallpaper/2.jpg -g
+tint2 &
+xrandr -s 1360x768 &
+picom &
