@@ -1,2 +1,2 @@
 # Configs
-My linux configs
+My wms and vim configs
